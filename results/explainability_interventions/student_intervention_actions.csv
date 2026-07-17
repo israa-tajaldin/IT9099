@@ -1,0 +1,83 @@
+case_id,support_area,trigger_features,recommended_action
+TEST_CASE_0085,Attendance support,"absence_count, attendance_rate","Review attendance barriers, agree an attendance improvement plan, and monitor attendance weekly."
+TEST_CASE_0085,Moodle engagement support,"active_days_rate, largest_inactivity_days, total_course_event_clicks","Provide an engagement plan covering course access, learning materials, assessment activity, and regular Moodle participation."
+TEST_CASE_0085,Workload adjustment,registered_course_count,Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0085,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0724,Attendance support,"absence_count, attendance_rate","Review attendance barriers, agree an attendance improvement plan, and monitor attendance weekly."
+TEST_CASE_0724,Moodle engagement support,"active_days_rate, largest_inactivity_days, zero_activity_days","Provide an engagement plan covering course access, learning materials, assessment activity, and regular Moodle participation."
+TEST_CASE_0724,Workload adjustment,registered_course_count,Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0724,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0561,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0561,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0561,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0561,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0281,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0281,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0281,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0281,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0507,Tutoring and academic support,"previous_cgpa_ordinal, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0507,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0507,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0507,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0122,Attendance support,"absence_count, attendance_rate","Review attendance barriers, agree an attendance improvement plan, and monitor attendance weekly."
+TEST_CASE_0122,Moodle engagement support,"active_days_rate, largest_inactivity_days, total_course_event_clicks","Provide an engagement plan covering course access, learning materials, assessment activity, and regular Moodle participation."
+TEST_CASE_0122,Workload adjustment,registered_course_count,Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0122,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0341,Attendance support,"absence_count, attendance_rate","Review attendance barriers, agree an attendance improvement plan, and monitor attendance weekly."
+TEST_CASE_0341,Moodle engagement support,"active_days_rate, largest_inactivity_days, zero_activity_days","Provide an engagement plan covering course access, learning materials, assessment activity, and regular Moodle participation."
+TEST_CASE_0341,Workload adjustment,registered_course_count,Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0341,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0434,Tutoring and academic support,"previous_cgpa_ordinal, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0434,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0434,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0434,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0524,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0524,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0524,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0524,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0202,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0202,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0202,Academic counselling,"previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0202,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0210,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0210,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0210,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0210,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0321,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0321,Workload adjustment,repeated_course_count_current,Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0321,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0321,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0025,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0025,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0025,Academic counselling,"previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0025,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0589,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0589,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0589,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0589,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0230,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0230,Workload adjustment,repeated_course_count_current,Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0230,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0230,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0664,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0664,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0664,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0664,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0223,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0223,Attendance support,attendance_rate,"Review attendance barriers, agree an attendance improvement plan, and monitor attendance weekly."
+TEST_CASE_0223,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0223,Academic counselling,"previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0223,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0457,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0457,Moodle engagement support,accessed_course_count,"Provide an engagement plan covering course access, learning materials, assessment activity, and regular Moodle participation."
+TEST_CASE_0457,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0457,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0457,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0634,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0634,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0634,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0634,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.
+TEST_CASE_0124,Tutoring and academic support,"previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+TEST_CASE_0124,Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+TEST_CASE_0124,Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."
+TEST_CASE_0124,Referral and coordinated review,High predicted risk or multiple risk domains,Refer the case for coordinated review by the academic adviser and the relevant student support service.

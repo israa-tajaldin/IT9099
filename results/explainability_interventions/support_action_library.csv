@@ -1,0 +1,6 @@
+support_area,trigger_features,recommended_action
+Tutoring and academic support,"assessment_interaction_events_ordinal, previous_cgpa_ordinal, previous_failed_course_count, previous_term_gpa_ordinal, repeated_course_count_current","Arrange targeted tutoring, assessment support, and an academic progress review."
+Attendance support,"absence_count, attendance_rate","Review attendance barriers, agree an attendance improvement plan, and monitor attendance weekly."
+Moodle engagement support,"accessed_course_count, active_days_numeric, active_days_rate, assessment_interaction_events_ordinal, course_access_rate, largest_inactivity_days, learning_material_events_ordinal, total_course_event_clicks, zero_activity_days","Provide an engagement plan covering course access, learning materials, assessment activity, and regular Moodle participation."
+Workload adjustment,"registered_course_count, registered_credits, repeated_course_count_current",Review the student's registered workload and repeated courses with the academic adviser.
+Academic counselling,"previous_academic_standing, previous_cgpa_ordinal, previous_term_gpa_ordinal","Schedule academic counselling to review progress, study barriers, and an agreed recovery plan."

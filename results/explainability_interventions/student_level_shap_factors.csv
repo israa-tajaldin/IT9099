@@ -1,0 +1,161 @@
+case_id,base_feature,shap_value,raw_value
+TEST_CASE_0085,enrolled_course_count,0.2984249968575927,2
+TEST_CASE_0085,registered_course_count,0.11321162042925458,6
+TEST_CASE_0085,year_level,0.10714074308542351,1
+TEST_CASE_0085,active_days_rate,0.022608841649989168,0.000
+TEST_CASE_0085,absence_count,0.0186618922388931,0
+TEST_CASE_0085,attendance_rate,0.018486543599012955,0.000
+TEST_CASE_0085,largest_inactivity_days,0.0179107140080564,34
+TEST_CASE_0085,total_course_event_clicks,0.01373456976720217,0
+TEST_CASE_0724,enrolled_course_count,0.3285571698275076,1
+TEST_CASE_0724,year_level,0.1009263424344737,1
+TEST_CASE_0724,registered_course_count,0.09930510735856941,6
+TEST_CASE_0724,active_days_rate,0.020069527600188194,0.000
+TEST_CASE_0724,largest_inactivity_days,0.015691577999817397,34
+TEST_CASE_0724,absence_count,0.015467633380887942,0
+TEST_CASE_0724,attendance_rate,0.01540036830021688,0.000
+TEST_CASE_0724,zero_activity_days,0.014258517390095286,34
+TEST_CASE_0561,year_level,0.10463641997828227,1
+TEST_CASE_0561,repeated_course_count_current,0.06814685073536535,2
+TEST_CASE_0561,registered_credits,0.06428847742032576,90
+TEST_CASE_0561,previous_cgpa_ordinal,0.06338995733714838,3.000
+TEST_CASE_0561,previous_academic_standing,0.055404562014617326,Academic Probation 1
+TEST_CASE_0561,previous_failed_course_count,0.04434995538385893,2
+TEST_CASE_0561,registered_course_count,0.03953849795660186,7
+TEST_CASE_0561,programme_or_school,0.03910860667948462,Bachelor of Business
+TEST_CASE_0281,repeated_course_count_current,0.08767965287138978,3
+TEST_CASE_0281,previous_failed_course_count,0.07811236758539272,4
+TEST_CASE_0281,registered_credits,0.0680251219069369,90
+TEST_CASE_0281,previous_academic_standing,0.05206813729500598,Academic Probation 3
+TEST_CASE_0281,previous_cgpa_ordinal,0.05033168674941293,4.000
+TEST_CASE_0281,previous_term_gpa_ordinal,0.04348816024894073,1.000
+TEST_CASE_0281,registered_course_count,0.03087284089397045,6
+TEST_CASE_0281,programme_or_school,0.02341885683608692,Bachelor of Business
+TEST_CASE_0507,year_level,0.112656465672902,1
+TEST_CASE_0507,registered_credits,0.06755174458157846,90
+TEST_CASE_0507,repeated_course_count_current,0.06109822921670649,2
+TEST_CASE_0507,previous_academic_standing,0.06085772779344713,Academic Probation 1
+TEST_CASE_0507,previous_cgpa_ordinal,0.04582446610561098,4.000
+TEST_CASE_0507,programme_or_school,0.03459328273922473,Bachelor of Information and Communications Technology
+TEST_CASE_0507,registered_course_count,0.033970428383939606,6
+TEST_CASE_0507,previous_term_gpa_ordinal,0.03045599356989968,4.000
+TEST_CASE_0122,enrolled_course_count,0.21375688347962443,3
+TEST_CASE_0122,registered_course_count,0.1288814763268049,6
+TEST_CASE_0122,year_level,0.10563935174501192,1
+TEST_CASE_0122,absence_count,0.024527180546766288,0
+TEST_CASE_0122,active_days_rate,0.022893474712186827,0.000
+TEST_CASE_0122,attendance_rate,0.02288317313235965,0.000
+TEST_CASE_0122,largest_inactivity_days,0.01859797536746862,34
+TEST_CASE_0122,total_course_event_clicks,0.015635444287086964,0
+TEST_CASE_0341,enrolled_course_count,0.2743243754200298,3
+TEST_CASE_0341,registered_course_count,0.12342866834863019,6
+TEST_CASE_0341,year_level,0.10262957145780469,1
+TEST_CASE_0341,active_days_rate,0.022100229445490383,0.000
+TEST_CASE_0341,absence_count,0.021739540074662934,0
+TEST_CASE_0341,attendance_rate,0.018625934717135115,0.000
+TEST_CASE_0341,largest_inactivity_days,0.0172396885794383,34
+TEST_CASE_0341,zero_activity_days,0.013636376133733917,34
+TEST_CASE_0434,year_level,0.08350170105482183,1
+TEST_CASE_0434,repeated_course_count_current,0.05779091790613891,1
+TEST_CASE_0434,registered_credits,0.0564924630663545,75
+TEST_CASE_0434,previous_academic_standing,0.051404344739426865,Academic Probation 1
+TEST_CASE_0434,previous_cgpa_ordinal,0.03836839441843694,4.000
+TEST_CASE_0434,programme_or_school,0.034370811113366775,Bachelor of Information and Communications Technology
+TEST_CASE_0434,previous_term_gpa_ordinal,0.030819906083158183,4.000
+TEST_CASE_0434,registered_course_count,0.030595833976438412,5
+TEST_CASE_0524,year_level,0.09687921929562363,1
+TEST_CASE_0524,previous_academic_standing,0.05830102728099276,Academic Probation 1
+TEST_CASE_0524,repeated_course_count_current,0.04955371802712999,1
+TEST_CASE_0524,registered_credits,0.04875791470169775,75
+TEST_CASE_0524,previous_term_gpa_ordinal,0.0453411395627959,3.000
+TEST_CASE_0524,registered_course_count,0.04200079715847403,6
+TEST_CASE_0524,previous_cgpa_ordinal,0.03763665441208546,4.000
+TEST_CASE_0524,previous_failed_course_count,0.03063135296051524,1
+TEST_CASE_0202,repeated_course_count_current,0.09448790205151582,2
+TEST_CASE_0202,previous_failed_course_count,0.0708264971280703,5
+TEST_CASE_0202,registered_credits,0.06243534145187389,75
+TEST_CASE_0202,previous_cgpa_ordinal,0.04260176010301453,4.000
+TEST_CASE_0202,registered_course_count,0.035624103412347105,5
+TEST_CASE_0202,previous_term_gpa_ordinal,0.02749425141391242,4.000
+TEST_CASE_0202,programme_or_school,0.02692005602879565,Bachelor of Information and Communications Technology
+TEST_CASE_0202,enrolled_course_count,0.02580372933533901,3
+TEST_CASE_0210,year_level,0.12342959423641885,1
+TEST_CASE_0210,repeated_course_count_current,0.06757008491735492,2
+TEST_CASE_0210,previous_academic_standing,0.06663644712687136,Academic Probation 1
+TEST_CASE_0210,registered_credits,0.06332312693690664,90
+TEST_CASE_0210,previous_cgpa_ordinal,0.05580772938141793,4.000
+TEST_CASE_0210,previous_term_gpa_ordinal,0.05548012535464693,3.000
+TEST_CASE_0210,previous_failed_course_count,0.04116601063657759,2
+TEST_CASE_0210,registered_course_count,0.03275251242893452,7
+TEST_CASE_0321,year_level,0.08758315469339911,1
+TEST_CASE_0321,repeated_course_count_current,0.06419904069115086,1
+TEST_CASE_0321,previous_failed_course_count,0.055370256886106715,2
+TEST_CASE_0321,previous_cgpa_ordinal,0.05509559775076192,3.000
+TEST_CASE_0321,previous_academic_standing,0.04976525642181027,Academic Probation 3
+TEST_CASE_0321,previous_term_gpa_ordinal,0.04861885792229149,3.000
+TEST_CASE_0321,programme_or_school,0.03810722917938674,Bachelor of Business
+TEST_CASE_0321,enrolled_course_count,0.028517497763307222,2
+TEST_CASE_0025,registered_credits,0.10866001488294391,90
+TEST_CASE_0025,repeated_course_count_current,0.09329897771595641,2
+TEST_CASE_0025,previous_failed_course_count,0.059459154625114904,2
+TEST_CASE_0025,previous_term_gpa_ordinal,0.057193911146742375,3.000
+TEST_CASE_0025,previous_cgpa_ordinal,0.04435503155355187,4.000
+TEST_CASE_0025,programme_or_school,0.03347096946020516,Bachelor of Information and Communications Technology
+TEST_CASE_0025,registered_course_count,0.03228412641157377,6
+TEST_CASE_0025,year_level,0.016873201137660596,3
+TEST_CASE_0589,repeated_course_count_current,0.08731261544458764,4
+TEST_CASE_0589,registered_credits,0.0835951273872851,90
+TEST_CASE_0589,previous_failed_course_count,0.07094492013740825,3
+TEST_CASE_0589,previous_cgpa_ordinal,0.06899106458326708,3.000
+TEST_CASE_0589,previous_academic_standing,0.0474387993290118,Academic Probation 3
+TEST_CASE_0589,registered_course_count,0.038790821265280856,6
+TEST_CASE_0589,previous_term_gpa_ordinal,0.0381000517506259,4.000
+TEST_CASE_0589,programme_or_school,0.02713621752295372,Bachelor of Information and Communications Technology
+TEST_CASE_0230,repeated_course_count_current,0.09125803244526298,1
+TEST_CASE_0230,previous_failed_course_count,0.08833343494515715,2
+TEST_CASE_0230,previous_cgpa_ordinal,0.0763463519567781,3.000
+TEST_CASE_0230,previous_academic_standing,0.06819909277928514,Academic Probation 3
+TEST_CASE_0230,previous_term_gpa_ordinal,0.040754411249794995,4.000
+TEST_CASE_0230,programme_or_school,0.0395724911376157,Bachelor of Business
+TEST_CASE_0230,enrolled_course_count,0.033756307670735494,2
+TEST_CASE_0230,year_level,0.019448944121597554,2
+TEST_CASE_0664,repeated_course_count_current,0.08072427368165282,2
+TEST_CASE_0664,previous_failed_course_count,0.07530338369584223,3
+TEST_CASE_0664,previous_cgpa_ordinal,0.055766550918142456,3.000
+TEST_CASE_0664,previous_term_gpa_ordinal,0.04795135597978373,3.000
+TEST_CASE_0664,registered_credits,0.046458106127642014,75
+TEST_CASE_0664,registered_course_count,0.031424839918408935,5
+TEST_CASE_0664,previous_academic_standing,0.029427929612208057,Academic Probation 2
+TEST_CASE_0664,programme_or_school,0.02926972004558537,Bachelor of Business
+TEST_CASE_0223,repeated_course_count_current,0.10857165873091644,2
+TEST_CASE_0223,registered_credits,0.10678287593929706,90
+TEST_CASE_0223,previous_failed_course_count,0.06566905508003044,2
+TEST_CASE_0223,previous_term_gpa_ordinal,0.05641631693402109,3.000
+TEST_CASE_0223,previous_cgpa_ordinal,0.05141905486579882,4.000
+TEST_CASE_0223,registered_course_count,0.04604078179034353,6
+TEST_CASE_0223,programme_or_school,0.026471908466442807,Bachelor of Business
+TEST_CASE_0223,attendance_rate,0.008226661618768998,30.000
+TEST_CASE_0457,registered_credits,0.09763937480250101,90
+TEST_CASE_0457,repeated_course_count_current,0.09082272925501701,2
+TEST_CASE_0457,previous_failed_course_count,0.05428786385410858,2
+TEST_CASE_0457,previous_term_gpa_ordinal,0.052209304841163415,3.000
+TEST_CASE_0457,previous_cgpa_ordinal,0.05102226966077898,4.000
+TEST_CASE_0457,previous_academic_standing,0.04988056704507302,Academic Probation 2
+TEST_CASE_0457,registered_course_count,0.04000995872365386,6
+TEST_CASE_0457,accessed_course_count,0.0060782736223350875,3
+TEST_CASE_0634,previous_failed_course_count,0.08762358978801484,4
+TEST_CASE_0634,registered_credits,0.08319634628807906,90
+TEST_CASE_0634,repeated_course_count_current,0.07912453794515671,2
+TEST_CASE_0634,previous_academic_standing,0.06523593641661492,Academic Probation 3
+TEST_CASE_0634,previous_cgpa_ordinal,0.057433868418659245,3.000
+TEST_CASE_0634,registered_course_count,0.03605901675895305,6
+TEST_CASE_0634,previous_term_gpa_ordinal,0.028404019079052788,4.000
+TEST_CASE_0634,previous_repeated_course_count,0.010980733919702876,1
+TEST_CASE_0124,registered_credits,0.09213200125852977,105
+TEST_CASE_0124,repeated_course_count_current,0.082939573005841,3
+TEST_CASE_0124,previous_failed_course_count,0.06841847640238276,3
+TEST_CASE_0124,previous_academic_standing,0.04344907722075465,Academic Probation 2
+TEST_CASE_0124,previous_cgpa_ordinal,0.04125819784506187,4.000
+TEST_CASE_0124,previous_term_gpa_ordinal,0.03882378446187262,3.000
+TEST_CASE_0124,registered_course_count,0.02507217581342515,7
+TEST_CASE_0124,enrolled_course_count,0.024369444697434645,2
