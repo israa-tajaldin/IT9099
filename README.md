@@ -57,6 +57,6 @@ This project uses anonymised secondary institutional data from Bahrain Polytechn
 
 **Raw data is not included in this repository.** In accordance with the data governance conditions under which access was granted, the source data cannot be redistributed. Researchers wishing to reproduce results on the same population would need to request access through Bahrain Polytechnic's Deanship of Applied Research and Entrepreneurship.
 
-To support reproducibility of the *pipeline logic* without institutional access, a synthetic sample dataset with the same schema is provided at `data/sample/synthetic_sample.csv`. This allows the full pipeline to be executed end-to-end for verification purposes, though results will not match those reported in the thesis.
+To support reproducibility of the *pipeline logic* without institutional access, a synthetic sample dataset with the same schema will be provided at `data/sample/synthetic_sample.csv`. This allows the full pipeline to be executed end-to-end for verification purposes, though results will not match those reported in the thesis.
 
 
