@@ -16,7 +16,7 @@ This project develops a closed loop AI framework for the early identification of
 - Personalised intervention decision support
 - Dynamic risk reassessment
 - An advisor support agent prototype
-- 
+
 
 ## 2. Repository Structure
 
@@ -61,7 +61,6 @@ The prototype retrieves structured model outputs and generates advisor friendly 
     ├── advisor_agent.py            # Advisor support agent
     ├── seed_demo.py                # Creates demo data
     ├── requirements.txt
-    ├── .env.example                # Example environment configuration
     └── data/
         └── prototype.db            # Local prototype database
 ```
